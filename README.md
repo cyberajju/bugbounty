@@ -4,8 +4,6 @@ list all off tools that i use to bug bounty
 # Tools
 
 
-https://github.com/nahamsec/bbht?tab=readme-ov-file#tools
-
 
 - dirsearch
 
