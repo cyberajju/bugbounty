@@ -179,5 +179,5 @@ Stay curious and ethical. Every step of testing adds to a secure cyberspace. Hap
 **Sources and Tools**  
 - [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/)  
 - [CyberTechAjju Tools](https://github.com/cyberajju/bugbounty/blob/main/tools%20list.txt)
-- 
+
 
