@@ -1,9 +1,9 @@
 # My Bug Hunting Methodology | CyberTechAjju
 
 **Follow me for more updates and insights:**  
-- **Twitter**: https://twitter.com/cybertechajju  
-- **LinkedIn**: https://www.linkedin.com/in/cybertechajju  
-
+- **Twitter**: https://x.com/Ajaykumar3856/
+- **LinkedIn**: https://in.linkedin.com/in/ajay-meena-6b432128a
+- **Youtube**: https://youtube.com/@cybertechajju?si=He6rc1ajEstskg7P
 ## Introduction  
 
 This methodology is designed for all levels of bug bounty hunters, from beginners to experts. It provides a step-by-step process for uncovering vulnerabilities in web applications.  
