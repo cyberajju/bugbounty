@@ -159,5 +159,3 @@ Check items off as you progress. Happy hunting!
 CYB3R T3CH AJJU's 2025 Updates.  
 
 ---  
-
-Let me know if you need further customization!
