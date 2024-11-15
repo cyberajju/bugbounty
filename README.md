@@ -1,8 +1,4 @@
-Here's an updated version of the checklist, incorporating modern methodologies and tools for 2025 as suggested by CYB3R T3CH AJJU.  
-
----
-
-# Bug Bounty Checklist for Web App (2025 Update)
+# Bug Bounty Checklist for Web App @cyberajju (2025 Update)
 
 > This checklist is designed to streamline your bug bounty methodology.  
 Check items off as you progress. Happy hunting!  
