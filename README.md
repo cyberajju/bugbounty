@@ -68,7 +68,6 @@ Check items off as you progress. Happy hunting!
 - [ ] Validate security headers with **securityheaders.com** or **burpsuite**:  
   - **CSP**, **HSTS**, **X-Frame-Options**, etc.  
 
-
 ### <a name="Transmission">Secure Transmission</a>
 
 - [ ] Audit SSL/TLS configuration with **testssl.sh** or **SSL Labs**.  
