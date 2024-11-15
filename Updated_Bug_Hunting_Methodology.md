@@ -53,7 +53,7 @@ This methodology is designed for all levels of bug bounty hunters, from beginner
 **Combine results**:  
    ```bash  
    cat subfinder.txt amass.txt other_sources.txt | anew all-subs.txt  
-   cat all-subs.txt | httpx -o live-subs.txt  
+   cat all-subs.txt | httpx-toolkit -o live-subs.txt  
    ```  
 
 ### Port Scanning (Active Recon)  
@@ -83,7 +83,7 @@ Use **Naabu** for port scanning.
 1. **Waymore** (Collect URLs and filter live ones)  
    ```bash  
    waymore -i example.com -oU collected-urls.txt  
-   cat collected-urls.txt | httpx -mc 200 -o live-urls.txt  
+   cat collected-urls.txt | httpx-toolkit -mc 200 -o live-urls.txt  
    ```  
 
 2. **Parameter Extraction**  
