@@ -1,5 +1,6 @@
 # My Bug Hunting Methodology | CyberTechAjju
 
+
 **Follow me for more updates and insights:**  
 - **Twitter**: https://x.com/Ajaykumar3856/
 - **LinkedIn**: https://in.linkedin.com/in/ajay-meena-6b432128a
