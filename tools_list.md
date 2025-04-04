@@ -400,6 +400,6 @@ go install -v github.com/ffuf/ffuf@latest
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2c0aGVnbDdjYmYweHViamo5OXAxMWtnNmVwajJhM2xpdzliamdwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqGhZVzzgbPy0TQzMG/giphy.gif" width="300">
+  <img src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" width="300">
 </p>
 ``` 
